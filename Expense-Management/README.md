@@ -24,8 +24,8 @@
 
 bash
 # Clone the repository
-git clone https://github.com/your-username/ODOO-x-Expense-Management.git
-cd ODOO-x-Expense-Management
+git clone https://github.com/Jeet1505/OPS-48-Expense-Management.git
+cd OPS-48-Expense-Management
 
 # Install dependencies
 npm install
